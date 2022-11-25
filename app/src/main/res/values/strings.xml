@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Smash App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="char_name">Characters</string>
+    <string-array name="chars">
+        <item>Bowser</item>
+        <item>Captain Falcon</item>
+        <item>Donkey Kong</item>
+        <item>Dr Mario</item>
+        <item>Falco</item>
+        <item>Fox</item>
+        <item>Game and Watch</item>
+        <item>Ganondorf</item>
+        <item>Ice Climbers</item>
+        <item>Kirby</item>
+        <item>Link</item>
+        <item>Luigi</item>
+        <item>Mario</item>
+        <item>Marth</item>
+        <item>Mewtwo</item>
+        <item>Ness</item>
+        <item>Peach</item>
+        <item>Pichu</item>
+        <item>Pikachu</item>
+        <item>Roy</item>
+        <item>Samus</item>
+        <item>Sheik</item>
+        <item>Yoshi</item>
+        <item>Young Link</item>
+        <item>Zelda</item>
+    </string-array>
+    <string name="move_name">Moves</string>
+    <string-array name="moves">
+        <item>Jab 1</item>
+        <item>Jab 2</item>
+        <item>Jab 3</item>
+        <item>F-tilt</item>
+        <item>D-tilt</item>
+        <item>U-tilt</item>
+        <item>F-smash</item>
+        <item>D-smash</item>
+        <item>U-smash</item>
+        <item>Nair</item>
+        <item>Fair</item>
+        <item>Dair</item>
+        <item>Bair</item>
+        <item>Uair</item>
+        <item>Neutral B</item>
+        <item>Side B</item>
+        <item>Up B</item>
+        <item>Down B</item>
+    </string-array>
+</resources>

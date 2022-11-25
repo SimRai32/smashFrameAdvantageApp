@@ -1,0 +1,1952 @@
+{
+  "Bowser": {
+    "Jab 1": {
+      "damage": 5,
+      "duration": 17
+    },
+    "Jab 2": {
+      "damage": 6,
+      "duration": 21
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 14,
+      "duration": 35
+    },
+    "D-tilt": {
+      "damage": 13,
+      "duration": 45
+    },
+    "U-tilt": {
+      "damage": 13,
+      "duration": 47
+    },
+    "Dash Attack": {
+      "damage": 11,
+      "duration": 49
+    },
+    "F-smash": {
+      "damage": 24,
+      "duration": 40
+    },
+    "U-smash": {
+      "damage": 20,
+      "duration": 59
+    },
+    "D-smash": {
+      "damage": 10,
+      "duration": 55
+    },
+    "Nair": {
+      "damage": 13,
+      "duration": 7
+    },
+    "Fair": {
+      "damage": 14,
+      "duration": 7
+    },
+    "Bair": {
+      "damage": 13,
+      "duration": 17
+    },
+    "Uair": {
+      "damage": 17,
+      "duration": 15
+    },
+    "Dair": {
+      "damage": 3,
+      "duration": 20
+    },
+    "Neutral B": {
+      "damage": 2,
+      "duration": 39
+    },
+    "Side B": {
+      "damage": 12,
+      "duration": 43
+    },
+    "Up B": {
+      "damage": 13,
+      "duration": 74
+    },
+    "Down B": {
+      "damage": 21,
+      "duration": 74
+    }
+  },
+  "Captain Falcon": {
+    "Jab 1": {
+      "damage": 2,
+      "duration": 13
+    },
+    "Jab 2": {
+      "damage": 3,
+      "duration": 14
+    },
+    "Jab 3": {
+      "damage": 8,
+      "duration": 17
+    },
+    "F-tilt": {
+      "damage": 11,
+      "duration": 20
+    },
+    "D-tilt": {
+      "damage": 12,
+      "duration": 25
+    },
+    "U-tilt": {
+      "damage": 13,
+      "duration": 21
+    },
+    "Dash Attack": {
+      "damage": 10,
+      "duration": 31
+    },
+    "F-smash": {
+      "damage": 20,
+      "duration": 42
+    },
+    "U-smash": {
+      "damage": 13,
+      "duration": 13
+    },
+    "D-smash": {
+      "damage": 18,
+      "duration": 26
+    },
+    "Nair": {
+      "damage": 13,
+      "duration": 7
+    },
+    "Fair": {
+      "damage": 18,
+      "duration": 9
+    },
+    "Bair": {
+      "damage": 14,
+      "duration": 9
+    },
+    "Uair": {
+      "damage": 13,
+      "duration": 7
+    },
+    "Dair": {
+      "damage": 16,
+      "duration": 12
+    },
+    "Neutral B": {
+      "damage": 27,
+      "duration": 47
+    },
+    "Side B": {
+      "damage": 7,
+      "duration": 64
+    },
+    "Up B": {
+      "damage": null,
+      "duration": null
+    },
+    "Down B": {
+      "damage": 15,
+      "duration": 64
+    }
+  },
+  "Donkey Kong": {
+    "Jab 1": {
+      "damage": 4,
+      "duration": 19
+    },
+    "Jab 2": {
+      "damage": 6,
+      "duration": 29
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 10,
+      "duration": 25
+    },
+    "D-tilt": {
+      "damage": 7,
+      "duration": 16
+    },
+    "U-tilt": {
+      "damage": 11,
+      "duration": 16
+    },
+    "Dash Attack": {
+      "damage": 11,
+      "duration": 45
+    },
+    "F-smash": {
+      "damage": 21,
+      "duration": 32
+    },
+    "U-smash": {
+      "damage": 18,
+      "duration": 39
+    },
+    "D-smash": {
+      "damage": 16,
+      "duration": 45
+    },
+    "Nair": {
+      "damage": 12,
+      "duration": 10
+    },
+    "Fair": {
+      "damage": 16,
+      "duration": 15
+    },
+    "Bair": {
+      "damage": 13,
+      "duration": 7
+    },
+    "Uair": {
+      "damage": 14,
+      "duration": 12
+    },
+    "Dair": {
+      "damage": 16,
+      "duration": 15
+    },
+    "Neutral B": {
+      "damage": 30,
+      "duration": 29
+    },
+    "Side B": {
+      "damage": 5,
+      "duration": 39
+    },
+    "Up B": {
+      "damage": 12,
+      "duration": 81
+    },
+    "Down B": {
+      "damage": 11,
+      "duration": 41
+    }
+  },
+  "Dr Mario": {
+    "Jab 1": {
+      "damage": 4,
+      "duration": 13
+    },
+    "Jab 2": {
+      "damage": 3,
+      "duration": 15
+    },
+    "Jab 3": {
+      "damage": 6,
+      "duration": 17
+    },
+    "F-tilt": {
+      "damage": 8,
+      "duration": 25
+    },
+    "D-tilt": {
+      "damage": 9,
+      "duration": 29
+    },
+    "U-tilt": {
+      "damage": 10,
+      "duration": 26
+    },
+    "Dash Attack": {
+      "damage": 9,
+      "duration": 32
+    },
+    "F-smash": {
+      "damage": 19,
+      "duration": 29
+    },
+    "U-smash": {
+      "damage": 16,
+      "duration": 30
+    },
+    "D-smash": {
+      "damage": 18,
+      "duration": 32
+    },
+    "Nair": {
+      "damage": 10,
+      "duration": 9
+    },
+    "Fair": {
+      "damage": 17,
+      "duration": 12
+    },
+    "Bair": {
+      "damage": 8,
+      "duration": 9
+    },
+    "Uair": {
+      "damage": 10,
+      "duration": 9
+    },
+    "Dair": {
+      "damage": 3,
+      "duration": 12
+    },
+    "Neutral B": {
+      "damage": 8,
+      "duration": 29
+    },
+    "Side B": {
+      "damage": 12,
+      "duration": 23
+    },
+    "Up B": {
+      "damage": 5,
+      "duration": 34
+    },
+    "Down B": {
+      "damage": 4,
+      "duration": 40
+    }
+  },
+  "Falco": {
+    "Jab 1": {
+      "damage": 4,
+      "duration": 14
+    },
+    "Jab 2": {
+      "damage": 4,
+      "duration": 17
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 9,
+      "duration": 21
+    },
+    "D-tilt": {
+      "damage": 13,
+      "duration": 22
+    },
+    "U-tilt": {
+      "damage": 9,
+      "duration": 18
+    },
+    "Dash Attack": {
+      "damage": 9,
+      "duration": 32
+    },
+    "F-smash": {
+      "damage": 17,
+      "duration": 27
+    },
+    "U-smash": {
+      "damage": 14,
+      "duration": 36
+    },
+    "D-smash": {
+      "damage": 16,
+      "duration": 40
+    },
+    "Nair": {
+      "damage": 12,
+      "duration": 7
+    },
+    "Fair": {
+      "damage": 9,
+      "duration": 11
+    },
+    "Bair": {
+      "damage": 15,
+      "duration": 10
+    },
+    "Uair": {
+      "damage": 10,
+      "duration": 9
+    },
+    "Dair": {
+      "damage": 16,
+      "duration": 15
+    },
+    "Neutral B": {
+      "damage": 3,
+      "duration": 4
+    },
+    "Side B": {
+      "damage": 7,
+      "duration": 20
+    },
+    "Up B": {
+      "damage": 16,
+      "duration": 41
+    },
+    "Down B": {
+      "damage": 8,
+      "duration": 3
+    }
+  },
+  "Fox": {
+    "Jab 1": {
+      "damage": 4,
+      "duration": 14
+    },
+    "Jab 2": {
+      "damage": 4,
+      "duration": 16
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 9,
+      "duration": 21
+    },
+    "D-tilt": {
+      "damage": 10,
+      "duration": 21
+    },
+    "U-tilt": {
+      "damage": 12,
+      "duration": 18
+    },
+    "Dash Attack": {
+      "damage": 7,
+      "duration": 32
+    },
+    "F-smash": {
+      "damage": 15,
+      "duration": 27
+    },
+    "U-smash": {
+      "damage": 18,
+      "duration": 34
+    },
+    "D-smash": {
+      "damage": 15,
+      "duration": 40
+    },
+    "Nair": {
+      "damage": 12,
+      "duration": 7
+    },
+    "Fair": {
+      "damage": 7,
+      "duration": 11
+    },
+    "Bair": {
+      "damage": 15,
+      "duration": 10
+    },
+    "Uair": {
+      "damage": 13,
+      "duration": 9
+    },
+    "Dair": {
+      "damage": 3,
+      "duration": 9
+    },
+    "Neutral B": {
+      "damage": 3,
+      "duration": 4
+    },
+    "Side B": {
+      "damage": 3,
+      "duration": 41
+    },
+    "Up B": {
+      "damage": 14,
+      "duration": 72
+    },
+    "Down B": {
+      "damage": 5,
+      "duration": 3
+    }
+  },
+  "Ganondorf": {
+    "Jab 1": {
+      "damage": 8,
+      "duration": 16
+    },
+    "Jab 2": {
+      "damage": null,
+      "duration": null
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 13,
+      "duration": 20
+    },
+    "D-tilt": {
+      "damage": 12,
+      "duration": 25
+    },
+    "U-tilt": {
+      "damage": 27,
+      "duration": 42
+    },
+    "Dash Attack": {
+      "damage": 14,
+      "duration": 7
+    },
+    "F-smash": {
+      "damage": 22,
+      "duration": 40
+    },
+    "U-smash": {
+      "damage": 19,
+      "duration": 11
+    },
+    "D-smash": {
+      "damage": 8,
+      "duration": 30
+    },
+    "Nair": {
+      "damage": 12,
+      "duration": 12
+    },
+    "Fair": {
+      "damage": 17,
+      "duration": 12
+    },
+    "Bair": {
+      "damage": 16,
+      "duration": 4
+    },
+    "Uair": {
+      "damage": 13,
+      "duration": 12
+    },
+    "Dair": {
+      "damage": 22,
+      "duration": 17
+    },
+    "Neutral B": {
+      "damage": 34,
+      "duration": 49
+    },
+    "Side B": {
+      "damage": 17,
+      "duration": 64
+    },
+    "Up B": {
+      "damage": null,
+      "duration": null
+    },
+    "Down B": {
+      "damage": 15,
+      "duration": 63
+    }
+  },
+  "Ice Climbers": {
+    "Jab 1": {
+      "damage": 2,
+      "duration": 12
+    },
+    "Jab 2": {
+      "damage": 4,
+      "duration": 13
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 8,
+      "duration": 22
+    },
+    "D-tilt": {
+      "damage": 5,
+      "duration": 21
+    },
+    "U-tilt": {
+      "damage": 7,
+      "duration": 16
+    },
+    "Dash Attack": {
+      "damage": 9,
+      "duration": 27
+    },
+    "F-smash": {
+      "damage": 14,
+      "duration": 34
+    },
+    "U-smash": {
+      "damage": 11,
+      "duration": 30
+    },
+    "D-smash": {
+      "damage": 12,
+      "duration": 33
+    },
+    "Nair": {
+      "damage": 8,
+      "duration": 10
+    },
+    "Fair": {
+      "damage": 9,
+      "duration": 10
+    },
+    "Bair": {
+      "damage": 11,
+      "duration": 10
+    },
+    "Uair": {
+      "damage": 9,
+      "duration": 16
+    },
+    "Dair": {
+      "damage": 9,
+      "duration": 12
+    },
+    "Neutral B": {
+      "damage": 5,
+      "duration": 39
+    },
+    "Side B": {
+      "damage": 4,
+      "duration": 44
+    },
+    "Up B": {
+      "damage": 16,
+      "duration": 72
+    },
+    "Down B": {
+      "damage": 2,
+      "duration": 13
+    }
+  },
+  "Link": {
+    "Jab 1": {
+      "damage": 5,
+      "duration": 14
+    },
+    "Jab 2": {
+      "damage": 3,
+      "duration": 11
+    },
+    "Jab 3": {
+      "damage": 6,
+      "duration": 26
+    },
+    "F-tilt": {
+      "damage": 15,
+      "duration": 23
+    },
+    "D-tilt": {
+      "damage": 11,
+      "duration": 16
+    },
+    "U-tilt": {
+      "damage": 9,
+      "duration": 20
+    },
+    "Dash Attack": {
+      "damage": 12,
+      "duration": 33
+    },
+    "F-smash": {
+      "damage": 14,
+      "duration": 31
+    },
+    "U-smash": {
+      "damage": 10,
+      "duration": 4
+    },
+    "D-smash": {
+      "damage": 17,
+      "duration": 33
+    },
+    "Nair": {
+      "damage": 7,
+      "duration": 4
+    },
+    "Fair": {
+      "damage": 13,
+      "duration": 7
+    },
+    "Bair": {
+      "damage": 7,
+      "duration": 7
+    },
+    "Uair": {
+      "damage": 16,
+      "duration": 15
+    },
+    "Dair": {
+      "damage": 22,
+      "duration": 67
+    },
+    "Neutral B": {
+      "damage": 18,
+      "duration": 24
+    },
+    "Side B": {
+      "damage": 16,
+      "duration": 18
+    },
+    "Up B": {
+      "damage": 15,
+      "duration": 71
+    },
+    "Down B": {
+      "damage": 4,
+      "duration": 39
+    }
+  },
+  "Luigi": {
+    "Jab 1": {
+      "damage": 3,
+      "duration": 13
+    },
+    "Jab 2": {
+      "damage": 2,
+      "duration": 15
+    },
+    "Jab 3": {
+      "damage": 5,
+      "duration": 18
+    },
+    "F-tilt": {
+      "damage": 10,
+      "duration": 28
+    },
+    "D-tilt": {
+      "damage": 9,
+      "duration": 29
+    },
+    "U-tilt": {
+      "damage": 9,
+      "duration": 25
+    },
+    "Dash Attack": {
+      "damage": 2,
+      "duration": 26
+    },
+    "F-smash": {
+      "damage": 13,
+      "duration": 28
+    },
+    "U-smash": {
+      "damage": 17,
+      "duration": 30
+    },
+    "D-smash": {
+      "damage": 17,
+      "duration": 32
+    },
+    "Nair": {
+      "damage": 15,
+      "duration": 7
+    },
+    "Fair": {
+      "damage": 12,
+      "duration": 12
+    },
+    "Bair": {
+      "damage": 11,
+      "duration": 7
+    },
+    "Uair": {
+      "damage": 13,
+      "duration": 7
+    },
+    "Dair": {
+      "damage": 16,
+      "duration": 9
+    },
+    "Neutral B": {
+      "damage": 6,
+      "duration": 29
+    },
+    "Side B": {
+      "damage": 5,
+      "duration": 69
+    },
+    "Up B": {
+      "damage": 25,
+      "duration": 34
+    },
+    "Down B": {
+      "damage": 12,
+      "duration": 36
+    }
+  },
+  "Mario": {
+    "Jab 1": {
+      "damage": 3,
+      "duration": 13
+    },
+    "Jab 2": {
+      "damage": 2,
+      "duration": 15
+    },
+    "Jab 3": {
+      "damage": 5,
+      "duration": 17
+    },
+    "F-tilt": {
+      "damage": 9,
+      "duration": 27
+    },
+    "D-tilt": {
+      "damage": 9,
+      "duration": 29
+    },
+    "U-tilt": {
+      "damage": 8,
+      "duration": 26
+    },
+    "Dash Attack": {
+      "damage": 9,
+      "duration": 32
+    },
+    "F-smash": {
+      "damage": 18,
+      "duration": 29
+    },
+    "U-smash": {
+      "damage": 15,
+      "duration": 30
+    },
+    "D-smash": {
+      "damage": 16,
+      "duration": 32
+    },
+    "Nair": {
+      "damage": 12,
+      "duration": 8
+    },
+    "Fair": {
+      "damage": 15,
+      "duration": 10
+    },
+    "Bair": {
+      "damage": 11,
+      "duration": 7
+    },
+    "Uair": {
+      "damage": 11,
+      "duration": 7
+    },
+    "Dair": {
+      "damage": 2,
+      "duration": 11
+    },
+    "Neutral B": {
+      "damage": 6,
+      "duration": 29
+    },
+    "Side B": {
+      "damage": 10,
+      "duration": 23
+    },
+    "Up B": {
+      "damage": 5,
+      "duration": 34
+    },
+    "Down B": {
+      "damage": 3,
+      "duration": 40
+    }
+  },
+  "Marth": {
+    "Jab 1": {
+      "damage": 6,
+      "duration": 22
+    },
+    "Jab 2": {
+      "damage": 6,
+      "duration": 23
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 13,
+      "duration": 28
+    },
+    "D-tilt": {
+      "damage": 10,
+      "duration": 11
+    },
+    "U-tilt": {
+      "damage": 13,
+      "duration": 26
+    },
+    "Dash Attack": {
+      "damage": 12,
+      "duration": 28
+    },
+    "F-smash": {
+      "damage": 20,
+      "duration": 38
+    },
+    "U-smash": {
+      "damage": 18,
+      "duration": 33
+    },
+    "D-smash": {
+      "damage": 16,
+      "duration": 57
+    },
+    "Nair": {
+      "damage": 10,
+      "duration":7
+    },
+    "Fair": {
+      "damage": 13,
+      "duration": 7
+    },
+    "Bair": {
+      "damage": 10,
+      "duration": 12
+    },
+    "Uair": {
+      "damage": 13,
+      "duration": 12
+    },
+    "Dair": {
+      "damage": 13,
+      "duration": 16
+    },
+    "Neutral B": {
+      "damage": 7,
+      "duration": 13
+    },
+    "Side B": {
+      "damage": 3,
+      "duration": 23
+    },
+    "Up B": {
+      "damage": 13,
+      "duration": 34
+    },
+    "Down B": {
+      "damage": 7,
+      "duration": 45
+    }
+  },
+  "Mewtwo": {
+    "Jab 1": {
+      "damage": 6,
+      "duration": 18
+    },
+    "Jab 2": {
+      "damage": 2,
+      "duration": 14
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 10,
+      "duration": 23
+    },
+    "D-tilt": {
+      "damage": 9,
+      "duration": 15
+    },
+    "U-tilt": {
+      "damage": 10,
+      "duration": 22
+    },
+    "Dash Attack": {
+      "damage": 9,
+      "duration": 28
+    },
+    "F-smash": {
+      "damage": 20,
+      "duration": 34
+    },
+    "U-smash": {
+      "damage": 10,
+      "duration": 61
+    },
+    "D-smash": {
+      "damage": 15,
+      "duration": 18
+    },
+    "Nair": {
+      "damage": 4,
+      "duration":13
+    },
+    "Fair": {
+      "damage": 14,
+      "duration": 12
+    },
+    "Bair": {
+      "damage": 13,
+      "duration": 14
+    },
+    "Uair": {
+      "damage": 14,
+      "duration": 10
+    },
+    "Dair": {
+      "damage": 16,
+      "duration": 29
+    },
+    "Neutral B": {
+      "damage": 25,
+      "duration": 9
+    },
+    "Side B": {
+      "damage": null,
+      "duration": null
+    },
+    "Up B": {
+      "damage": null,
+      "duration": null
+    },
+    "Down B": {
+      "damage": 1,
+      "duration": 26
+    }
+  },
+  "Game and Watch": {
+    "Jab 1": {
+      "damage": 3,
+      "duration": 12
+    },
+    "Jab 2": {
+      "damage": null,
+      "duration": null
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 10,
+      "duration": 29
+    },
+    "D-tilt": {
+      "damage": 12,
+      "duration": 20
+    },
+    "U-tilt": {
+      "damage": 9,
+      "duration": 20
+    },
+    "Dash Attack": {
+      "damage": 9,
+      "duration": 31
+    },
+    "F-smash": {
+      "damage": 18,
+      "duration": 29
+    },
+    "U-smash": {
+      "damage": 18,
+      "duration": 20
+    },
+    "D-smash": {
+      "damage": 16,
+      "duration": 19
+    },
+    "Nair": {
+      "damage": 16,
+      "duration":15
+    },
+    "Fair": {
+      "damage": 16,
+      "duration": 12
+    },
+    "Bair": {
+      "damage": 5,
+      "duration": 15
+    },
+    "Uair": {
+      "damage": 9,
+      "duration": 15
+    },
+    "Dair": {
+      "damage": 14,
+      "duration": 10
+    },
+    "Neutral B": {
+      "damage": 5,
+      "duration": 31
+    },
+    "Side B": {
+      "damage": 32,
+      "duration": 33
+    },
+    "Up B": {
+      "damage": 6,
+      "duration": 38
+    },
+    "Down B": {
+      "damage": null,
+      "duration": null
+    }
+  },
+  "Ness": {
+    "Jab 1": {
+      "damage": 3,
+      "duration": 16
+    },
+    "Jab 2": {
+      "damage": 2,
+      "duration": 16
+    },
+    "Jab 3": {
+      "damage": 4,
+      "duration": 23
+    },
+    "F-tilt": {
+      "damage": 11,
+      "duration": 27
+    },
+    "D-tilt": {
+      "damage": 3,
+      "duration": 10
+    },
+    "U-tilt": {
+      "damage": 7,
+      "duration": 27
+    },
+    "Dash Attack": {
+      "damage": 5,
+      "duration": 18
+    },
+    "F-smash": {
+      "damage": 28,
+      "duration": 33
+    },
+    "U-smash": {
+      "damage": 9,
+      "duration": 37
+    },
+    "D-smash": {
+      "damage": 11,
+      "duration": 47
+    },
+    "Nair": {
+      "damage": 11,
+      "duration":11
+    },
+    "Fair": {
+      "damage": 5,
+      "duration": 9
+    },
+    "Bair": {
+      "damage": 16,
+      "duration": 9
+    },
+    "Uair": {
+      "damage": 13,
+      "duration": 9
+    },
+    "Dair": {
+      "damage": 12,
+      "duration": 14
+    },
+    "Neutral B": {
+      "damage": 36,
+      "duration": 45
+    },
+    "Side B": {
+      "damage": 2,
+      "duration": 29
+    },
+    "Up B": {
+      "damage": 25,
+      "duration": 30
+    },
+    "Down B": {
+      "damage": null,
+      "duration": null
+    }
+  },
+  "Peach": {
+    "Jab 1": {
+      "damage": 3,
+      "duration": 14
+    },
+    "Jab 2": {
+      "damage": 2,
+      "duration": 14
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 13,
+      "duration": 31
+    },
+    "D-tilt": {
+      "damage": 12,
+      "duration": 14
+    },
+    "U-tilt": {
+      "damage": 12,
+      "duration": 30
+    },
+    "Dash Attack": {
+      "damage": 12,
+      "duration": 30
+    },
+    "F-smash": {
+      "damage": 17,
+      "duration": 25
+    },
+    "U-smash": {
+      "damage": 8,
+      "duration": 31
+    },
+    "D-smash": {
+      "damage": 14,
+      "duration": 13
+    },
+    "Nair": {
+      "damage": 14,
+      "duration":4
+    },
+    "Fair": {
+      "damage": 15,
+      "duration": 4
+    },
+    "Bair": {
+      "damage": 14,
+      "duration": 4
+    },
+    "Uair": {
+      "damage": 14,
+      "duration": 4
+    },
+    "Dair": {
+      "damage": 3,
+      "duration": 4
+    },
+    "Neutral B": {
+      "damage": 3,
+      "duration": 34
+    },
+    "Side B": {
+      "damage": 18,
+      "duration": 25
+    },
+    "Up B": {
+      "damage": 5,
+      "duration": 50
+    },
+    "Down B": {
+      "damage": 2,
+      "duration": 13
+    }
+  },
+  "Pichu": {
+    "Jab 1": {
+      "damage": 2,
+      "duration": 19
+    },
+    "Jab 2": {
+      "damage": null,
+      "duration": null
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 8,
+      "duration": 24
+    },
+    "D-tilt": {
+      "damage": 7,
+      "duration": 12
+    },
+    "U-tilt": {
+      "damage": 6,
+      "duration": 16
+    },
+    "Dash Attack": {
+      "damage": 8,
+      "duration": 44
+    },
+    "F-smash": {
+      "damage": 6,
+      "duration": 15
+    },
+    "U-smash": {
+      "damage": 16,
+      "duration": 34
+    },
+    "D-smash": {
+      "damage": 13,
+      "duration": 47
+    },
+    "Nair": {
+      "damage": 12,
+      "duration":6
+    },
+    "Fair": {
+      "damage": 2,
+      "duration": 7
+    },
+    "Bair": {
+      "damage": 9,
+      "duration": 9
+    },
+    "Uair": {
+      "damage": 4,
+      "duration": 9
+    },
+    "Dair": {
+      "damage": 12,
+      "duration": 13
+    },
+    "Neutral B": {
+      "damage": 7,
+      "duration": 39
+    },
+    "Side B": {
+      "damage": 39,
+      "duration": 65
+    },
+    "Up B": {
+      "damage": null,
+      "duration": null
+    },
+    "Down B": {
+      "damage": 13,
+      "duration": 89
+    }
+  },
+  "Pikachu": {
+    "Jab 1": {
+      "damage": 2,
+      "duration": 19
+    },
+    "Jab 2": {
+      "damage": null,
+      "duration": null
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 8,
+      "duration": 24
+    },
+    "D-tilt": {
+      "damage": 7,
+      "duration": 14
+    },
+    "U-tilt": {
+      "damage": 7,
+      "duration": 12
+    },
+    "Dash Attack": {
+      "damage": 8,
+      "duration": 44
+    },
+    "F-smash": {
+      "damage": 21,
+      "duration": 33
+    },
+    "U-smash": {
+      "damage": 19,
+      "duration": 33
+    },
+    "D-smash": {
+      "damage": 3,
+      "duration": 26
+    },
+    "Nair": {
+      "damage": 12,
+      "duration":7
+    },
+    "Fair": {
+      "damage": 2,
+      "duration": 10
+    },
+    "Bair": {
+      "damage": 12,
+      "duration": 15
+    },
+    "Uair": {
+      "damage": 4,
+      "duration": 13
+    },
+    "Dair": {
+      "damage": 12,
+      "duration": 20
+    },
+    "Neutral B": {
+      "damage": 7,
+      "duration": 39
+    },
+    "Side B": {
+      "damage": 29,
+      "duration": 65
+    },
+    "Up B": {
+      "damage": 3,
+      "duration": 24
+    },
+    "Down B": {
+      "damage": 15,
+      "duration": 60
+    }
+  },
+  "Jigglypuff": {
+    "Jab 1": {
+      "damage": 3,
+      "duration": 11
+    },
+    "Jab 2": {
+      "damage": 3,
+      "duration": 14
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 10,
+      "duration": 21
+    },
+    "D-tilt": {
+      "damage": 10,
+      "duration": 20
+    },
+    "U-tilt": {
+      "damage": 9,
+      "duration": 15
+    },
+    "Dash Attack": {
+      "damage": 12,
+      "duration": 35
+    },
+    "F-smash": {
+      "damage": 17,
+      "duration": 32
+    },
+    "U-smash": {
+      "damage": 15,
+      "duration": 47
+    },
+    "D-smash": {
+      "damage": 12,
+      "duration": 39
+    },
+    "Nair": {
+      "damage": 12,
+      "duration":10
+    },
+    "Fair": {
+      "damage": 12,
+      "duration": 10
+    },
+    "Bair": {
+      "damage": 12,
+      "duration": 10
+    },
+    "Uair": {
+      "damage": 12,
+      "duration": 10
+    },
+    "Dair": {
+      "damage": 2,
+      "duration": 15
+    },
+    "Neutral B": {
+      "damage": null,
+      "duration": null
+    },
+    "Side B": {
+      "damage": 13,
+      "duration": 33
+    },
+    "Up B": {
+      "damage": null,
+      "duration": null
+    },
+    "Down B": {
+      "damage": 28,
+      "duration": 249
+    }
+  },
+  "Roy": {
+    "Jab 1": {
+      "damage": 6,
+      "duration": 22
+    },
+    "Jab 2": {
+      "damage": null,
+      "duration": null
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 12,
+      "duration": 31
+    },
+    "D-tilt": {
+      "damage": 12,
+      "duration": 12
+    },
+    "U-tilt": {
+      "damage": 10,
+      "duration": 33
+    },
+    "Dash Attack": {
+      "damage": 12,
+      "duration": 28
+    },
+    "F-smash": {
+      "damage": 20,
+      "duration": 42
+    },
+    "U-smash": {
+      "damage": 10,
+      "duration": 21
+    },
+    "D-smash": {
+      "damage": 21,
+      "duration": 66
+    },
+    "Nair": {
+      "damage": 8,
+      "duration":10
+    },
+    "Fair": {
+      "damage": 8,
+      "duration": 10
+    },
+    "Bair": {
+      "damage": 9,
+      "duration": 12
+    },
+    "Uair": {
+      "damage": 9,
+      "duration": 9
+    },
+    "Dair": {
+      "damage": 9,
+      "duration": 16
+    },
+    "Neutral B": {
+      "damage": 6,
+      "duration": 29
+    },
+    "Side B": {
+      "damage": 5,
+      "duration": 23
+    },
+    "Up B": {
+      "damage": 1,
+      "duration": 28
+    },
+    "Down B": {
+      "damage": null,
+      "duration": null
+    }
+  },
+  "Samus": {
+    "Jab 1": {
+      "damage": 3,
+      "duration": 14
+    },
+    "Jab 2": {
+      "damage": 7,
+      "duration": 25
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 10,
+      "duration": 24
+    },
+    "D-tilt": {
+      "damage": 14,
+      "duration": 33
+    },
+    "U-tilt": {
+      "damage": 13,
+      "duration": 25
+    },
+    "Dash Attack": {
+      "damage": 13,
+      "duration": 30
+    },
+    "F-smash": {
+      "damage": 14,
+      "duration": 33
+    },
+    "U-smash": {
+      "damage": 6,
+      "duration": 29
+    },
+    "D-smash": {
+      "damage": 16,
+      "duration": 39
+    },
+    "Nair": {
+      "damage": 14,
+      "duration":7
+    },
+    "Fair": {
+      "damage": 5,
+      "duration": 7
+    },
+    "Bair": {
+      "damage": 14,
+      "duration": 7
+    },
+    "Uair": {
+      "damage": 4,
+      "duration": 7
+    },
+    "Dair": {
+      "damage": 16,
+      "duration": 7
+    },
+    "Neutral B": {
+      "damage": 25,
+      "duration": 29
+    },
+    "Side B": {
+      "damage": 12,
+      "duration": 27
+    },
+    "Up B": {
+      "damage": 2,
+      "duration": 16
+    },
+    "Down B": {
+      "damage": 7,
+      "duration": 43
+    }
+  },
+  "Sheik": {
+    "Jab 1": {
+      "damage": 4,
+      "duration": 14
+    },
+    "Jab 2": {
+      "damage": 3,
+      "duration": 14
+    },
+    "Jab 3": {
+      "damage": 1,
+      "duration": 3
+    },
+    "F-tilt": {
+      "damage": 7,
+      "duration": 22
+    },
+    "D-tilt": {
+      "damage": 8,
+      "duration": 23
+    },
+    "U-tilt": {
+      "damage": 4,
+      "duration": 7
+    },
+    "Dash Attack": {
+      "damage": 10,
+      "duration": 30
+    },
+    "F-smash": {
+      "damage": 10,
+      "duration": 23
+    },
+    "U-smash": {
+      "damage": 17,
+      "duration": 28
+    },
+    "D-smash": {
+      "damage": 10,
+      "duration": 24
+    },
+    "Nair": {
+      "damage": 14,
+      "duration":8
+    },
+    "Fair": {
+      "damage": 13,
+      "duration": 8
+    },
+    "Bair": {
+      "damage": 14,
+      "duration": 8
+    },
+    "Uair": {
+      "damage": 12,
+      "duration": 12
+    },
+    "Dair": {
+      "damage": 11,
+      "duration": 10
+    },
+    "Neutral B": {
+      "damage": 3,
+      "duration": 22
+    },
+    "Side B": {
+      "damage": 5,
+      "duration": 53
+    },
+    "Up B": {
+      "damage": 12,
+      "duration": 58
+    },
+    "Down B": {
+      "damage": null,
+      "duration": null
+    }
+  },
+  "Yoshi": {
+    "Jab 1": {
+      "damage": 3,
+      "duration": 14
+    },
+    "Jab 2": {
+      "damage": 5,
+      "duration": 16
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 12,
+      "duration": 23
+    },
+    "D-tilt": {
+      "damage": 10,
+      "duration": 15
+    },
+    "U-tilt": {
+      "damage": 10,
+      "duration": 21
+    },
+    "Dash Attack": {
+      "damage": 9,
+      "duration": 32
+    },
+    "F-smash": {
+      "damage": 16,
+      "duration": 30
+    },
+    "U-smash": {
+      "damage": 14,
+      "duration": 29
+    },
+    "D-smash": {
+      "damage": 14,
+      "duration": 43
+    },
+    "Nair": {
+      "damage": 14,
+      "duration":7
+    },
+    "Fair": {
+      "damage": 17,
+      "duration": 10
+    },
+    "Bair": {
+      "damage": 4,
+      "duration": 7
+    },
+    "Uair": {
+      "damage": 13,
+      "duration": 9
+    },
+    "Dair": {
+      "damage": 4,
+      "duration": 13
+    },
+    "Neutral B": {
+      "damage": null,
+      "duration": null
+    },
+    "Side B": {
+      "damage": null,
+      "duration": null
+    },
+    "Up B": {
+      "damage": 12,
+      "duration": 36
+    },
+    "Down B": {
+      "damage": 16,
+      "duration": 24
+    }
+  },
+  "Young Link": {
+    "Jab 1": {
+      "damage": 3,
+      "duration": 14
+    },
+    "Jab 2": {
+      "damage": 2,
+      "duration": 11
+    },
+    "Jab 3": {
+      "damage": 5,
+      "duration": 26
+    },
+    "F-tilt": {
+      "damage": 12,
+      "duration": 22
+    },
+    "D-tilt": {
+      "damage": 10,
+      "duration": 18
+    },
+    "U-tilt": {
+      "damage": 8,
+      "duration": 20
+    },
+    "Dash Attack": {
+      "damage": 11,
+      "duration": 47
+    },
+    "F-smash": {
+      "damage": 10,
+      "duration": 34
+    },
+    "U-smash": {
+      "damage": 9,
+      "duration": 17
+    },
+    "D-smash": {
+      "damage": 13,
+      "duration": 33
+    },
+    "Nair": {
+      "damage": 12,
+      "duration":7
+    },
+    "Fair": {
+      "damage": 12,
+      "duration": 7
+    },
+    "Bair": {
+      "damage": 7,
+      "duration": 7
+    },
+    "Uair": {
+      "damage": 15,
+      "duration": 15
+    },
+    "Dair": {
+      "damage": 16,
+      "duration": 25
+    },
+    "Neutral B": {
+      "damage": 15,
+      "duration": 25
+    },
+    "Side B": {
+      "damage": 7,
+      "duration": 18
+    },
+    "Up B": {
+      "damage": 3,
+      "duration": 39
+    },
+    "Down B": {
+      "damage": 12,
+      "duration": 12
+    }
+  },
+  "Zelda": {
+    "Jab 1": {
+      "damage": 2,
+      "duration": 16
+    },
+    "Jab 2": {
+      "damage": null,
+      "duration": null
+    },
+    "Jab 3": {
+      "damage": null,
+      "duration": null
+    },
+    "F-tilt": {
+      "damage": 13,
+      "duration": 25
+    },
+    "D-tilt": {
+      "damage": 8,
+      "duration": 25
+    },
+    "U-tilt": {
+      "damage": 11,
+      "duration": 30
+    },
+    "Dash Attack": {
+      "damage": 13,
+      "duration": 30
+    },
+    "F-smash": {
+      "damage": 14,
+      "duration": 14
+    },
+    "U-smash": {
+      "damage": 5,
+      "duration": 16
+    },
+    "D-smash": {
+      "damage": 11,
+      "duration": 28
+    },
+    "Nair": {
+      "damage": 5,
+      "duration":9
+    },
+    "Fair": {
+      "damage": 20,
+      "duration": 9
+    },
+    "Bair": {
+      "damage": 20,
+      "duration": 9
+    },
+    "Uair": {
+      "damage": 13,
+      "duration": 12
+    },
+    "Dair": {
+      "damage": 8,
+      "duration": 12
+    },
+    "Neutral B": {
+      "damage": 5,
+      "duration": 33
+    },
+    "Side B": {
+      "damage": 13,
+      "duration": 17
+    },
+    "Up B": {
+      "damage": 4,
+      "duration": 104
+    },
+    "Down B": {
+      "damage": null,
+      "duration": null
+    }
+  }
+}
