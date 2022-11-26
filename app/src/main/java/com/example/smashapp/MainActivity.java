@@ -3,6 +3,8 @@ import android.graphics.Color;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import com.example.smashapp.databinding.ActivityMainBinding;
+
+import android.view.Gravity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -26,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setTitle("Frame Advantage on Shield");
         final String[] character = {"Bowser"};
         final String[] move = {"Jab 1"};
-        TextView frames = (TextView)findViewById(R.id.frames);
+        TextView frames = findViewById(R.id.frames);
         String data = "";
         // retrieving the data stored in the data.json file
         try {
@@ -81,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Button button = (Button) findViewById(R.id.find);
+        Button button = findViewById(R.id.find);
         String finalData = data;
         // calculates the frame advantage whenever the button is clicked
         button.setOnClickListener(new View.OnClickListener() {
@@ -100,24 +102,29 @@ public class MainActivity extends AppCompatActivity {
                     int calc = (int) Math.floor( ( dam + 4.45 ) / 2.235 ) - dur;
                     String plus = "";
                     // converts the calculated frame advantage into a string
-                    String test = Integer.toString(calc);
+                    String frameAdvantage = Integer.toString(calc);
                     if (calc < 0) {
                         frames.setTextColor(Color.RED);
-                    }
-                    else if (calc == 0) {
+                    } else if (calc == 0) {
                         frames.setTextColor(Color.GRAY);
 
-                    }
-                    else {
+                    } else {
                         frames.setTextColor(Color.GREEN);
                         plus = "+";
                     }
-                    frames.setText(plus + test);
+                    String result = plus + frameAdvantage;
+                    frames.setText(result);
 
                 } catch (Exception e) {
+                    // styling and positioning text
                     frames.setTextColor(Color.RED);
                     frames.setTextSize(20);
-                    frames.setText("This move does not exist :(");
+                    frames.setGravity(Gravity.CENTER);
+                    String message = "This move does not hit the opponent's shield :(";
+                    if (move[0].equals("Jab 2")  || move[0].equals("Jab 3")) {
+                        message = "This move does not exist :(";
+                    }
+                    frames.setText(message);
                     e.printStackTrace();
                 }
             }
